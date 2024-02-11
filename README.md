@@ -2,7 +2,10 @@
 
 This repository contains coursework projects: project description, project implementation code, and final report.
 2024 winter quarter revision.
+
 Coworkers: [Nina Cheng](https://github.com/Ninacheng222), [Kyle Wang](https://github.com/knwng), Sophia Yang
+
+---
 
 ## Project 1 - Classification
 - Cleaning & Feature Extraction of textual data
