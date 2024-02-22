@@ -27,3 +27,12 @@ Coworkers: [Nina Cheng](https://github.com/Ninacheng222), [Kyle Wang](https://gi
 ### Part 3 - Clustering using both image and text - By Nina Cheng
 - Use pre-trained CLIP to inference on [Pokemon image dataset](https://www.kaggle.com/datasets/hlrhegemony/pokemon-image-dataset?resource=download) and [metadata](https://github.com/lgreski/pokemonData/blob/master/Pokemon.csv)
 - Use t-SNE to visualize image clusters
+
+## Project 3 - Recommender Systems
+### Collaborative filtering - By Kyle Wang & Sophia Yang
+- Neighborhood-based collaborative filtering
+- Model-based collaborative filtering
+
+### Ranking - By Nina Cheng
+- Implement pairwise learning-to-rank approach in LighGMB on [MSLR-WEB10K](https://www.microsoft.com/en-us/research/project/mslr/) dataset
+- Use nDCG to evaluate ranking results
